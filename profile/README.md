@@ -37,7 +37,7 @@ Write tests in YAML File:
 Run Pytest:
 
 ```bash
-$ pytest
+$ pytest -v
 ```
 
 ![Nuts successful](https://github.com/network-unit-testing-system/nuts-containerlab-demo/blob/main/imgs/successful.png?raw=true)
