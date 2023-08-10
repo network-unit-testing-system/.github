@@ -1,10 +1,10 @@
 ## Thanks for visiting NUTS (Network Unitit Testing System) 👋
 
-NUTS is a [Pytest](https://docs.pytest.org/) plugin enabling network testing.
+NUTS is a [Pytest](https://docs.pytest.org/) plugin enabling network testing using YAML files.
 
 ### Documentation
 
-You can find the whole documentation under [https://nuts.readthedocs.io/](https://nuts.readthedocs.io/).
+You can find the whole documentation at [https://nuts.readthedocs.io/](https://nuts.readthedocs.io/).
 
 ![Nuts components](https://raw.githubusercontent.com/network-unit-testing-system/nuts/master/docs/source/images/nuts-ablauf-en.drawio.png)
 
@@ -13,10 +13,10 @@ You can find the whole documentation under [https://nuts.readthedocs.io/](https:
 Install ``nuts`` using pip:
 
 ```bash
-pip install nuts
+$ pip install nuts
 ```
 
-Write tests in YAML File
+Write tests in YAML File:
 
 ```yaml
 - test_class: TestNapalmBgpNeighbors
@@ -37,7 +37,7 @@ Write tests in YAML File
 Run Pytest:
 
 ```bash
-pytest
+$ pytest
 ```
 
 ![Nuts successful](https://github.com/network-unit-testing-system/nuts-containerlab-demo/blob/main/imgs/successful.png?raw=true)
