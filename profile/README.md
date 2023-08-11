@@ -1,4 +1,4 @@
-## Thanks for visiting NUTS (Network Unitit Testing System) 👋
+## Thanks for visiting NUTS (Network Unit Testing System) 👋
 
 NUTS is a [Pytest](https://docs.pytest.org/) plugin enabling network testing using YAML files.
 
