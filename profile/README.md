@@ -50,5 +50,5 @@ $ pytest -v
 | --- | --- |
 | [nuts](https://github.com/network-unit-testing-system/nuts) | Pytest plugin using YAML to execute network unit tests |
 | [nuts-containerlab-demo](https://github.com/network-unit-testing-system/nuts-containerlab-demo) | Demo lab with containerlab to see Nuts in action |
-| [nuts-testclient](https://github.com/network-unit-testing-system/nuts-containerlab-demo) | Container with SSH server containing useful tools for testing |
+| [nuts-testclient](https://github.com/network-unit-testing-system/nuts-testclient) | Container with SSH server containing useful tools for testing |
 | [nuts-clinet-tests](https://github.com/network-unit-testing-system/nuts-clinet-tests) | TestCases for (Linux) clients |
